@@ -20,6 +20,7 @@ ActinRod|[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges
 - stoich.py *Stoichiometric analysis*
 - svgBondGraph.py *Scaleable Vector Graphics (SVG) to BondGraphTools*
 - stoichBondGraph.py *Stoichiometry to BondGraphTools*
+- modularBondGraph.py *Modular BondGraphs*
 
 ## Bond Graphs in Scaleable Vector Graphics (SVG) format
 - ActinRod_abg.svg 
