@@ -1,56 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Creator: fig2dev Version 3.2.8b -->
-<!-- CreationDate: 2023-08-28 11:37:23 -->
+<!-- CreationDate: 2024-05-25 14:35:31 -->
 <!-- Magnification: 1.05 -->
 <svg	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
-	width="428pt" height="386pt"
-	viewBox="-247 203 6794 6119">
+	width="343pt" height="329pt"
+	viewBox="653 653 5444 5219">
 <g fill="none">
 <!-- Text -->
-<text xml:space="preserve" x="1350" y="675" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\mu<tspan font-size="160" baseline-shift="sub">A</tspan></text>
-<!-- Text -->
-<text xml:space="preserve" x="1350" y="1350" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">-v</text>
-<!-- Text -->
-<text xml:space="preserve" x="4725" y="2250" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\mu<tspan font-size="160" baseline-shift="sub">B</tspan></text>
+<text xml:space="preserve" x="4725" y="2250" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\phi<tspan font-size="160" baseline-shift="sub">B</tspan></text>
 <!-- Text -->
 <text xml:space="preserve" x="4725" y="2925" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">v</text>
 <!-- Text -->
-<text xml:space="preserve" x="3150" y="2250" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\mu<tspan font-size="160" baseline-shift="sub">A</tspan>-mF</text>
+<text xml:space="preserve" x="3150" y="2250" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\phi<tspan font-size="160" baseline-shift="sub">A</tspan>-mF</text>
 <!-- Text -->
 <text xml:space="preserve" x="3150" y="2925" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">v</text>
 <!-- Text -->
-<text xml:space="preserve" x="2025" y="3375" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="end">\mu<tspan font-size="160" baseline-shift="sub">F</tspan>=mF</text>
+<text xml:space="preserve" x="2025" y="3375" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="end">\phi<tspan font-size="160" baseline-shift="sub">F</tspan>=mF</text>
 <!-- Text -->
 <text xml:space="preserve" x="2475" y="3375" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="start">v</text>
 <!-- Text -->
-<text xml:space="preserve" x="2025" y="1800" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="end">\mu<tspan font-size="160" baseline-shift="sub">A</tspan></text>
+<text xml:space="preserve" x="2025" y="1800" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="end">\phi<tspan font-size="160" baseline-shift="sub">A</tspan></text>
 <!-- Text -->
 <text xml:space="preserve" x="2475" y="1800" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="start">v</text>
 <!-- Line -->
-<rect x="-225" y="225" width="6750" height="6075" rx="105"
+<rect x="675" y="675" width="5400" height="5175" rx="105"
 	stroke="#ffd600" stroke-width="15px"/>
 <!-- Text -->
-<text xml:space="preserve" x="1350" y="5400" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">F</text>
+<text xml:space="preserve" x="4050" y="3825" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="264" text-anchor="middle">Chemical domain</text>
 <!-- Text -->
-<text xml:space="preserve" x="1350" y="6075" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">V=mv</text>
+<text xml:space="preserve" x="4050" y="4500" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="264" text-anchor="middle">Mechanical domain</text>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="4950" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="end">F</text>
+<!-- Text -->
+<text xml:space="preserve" x="2475" y="4950" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="start">V=mv</text>
 <!-- Text -->
 <text xml:space="preserve" x="2250" y="2565" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
 <!-- Text -->
-<text xml:space="preserve" x="2250" y="990" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<text xml:space="preserve" x="2250" y="990" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:A</text>
 <!-- Text -->
-<text xml:space="preserve" x="450" y="990" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:A</text>
-<!-- Text -->
-<text xml:space="preserve" x="450" y="5715" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:c</text>
-<!-- Text -->
-<text xml:space="preserve" x="2250" y="5715" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<text xml:space="preserve" x="2250" y="5715" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:F</text>
 <!-- Text -->
 <g transform="translate(3825,2475) rotate(-270)" >
 <text xml:space="preserve" x="0" y="0" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Re:r</text>
 </g><!-- Text -->
 <text xml:space="preserve" x="5310" y="2565" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="start">Ce:B</text>
 <!-- Text -->
-<text xml:space="preserve" x="2250" y="4140" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="start">TF:m</text>
+<text xml:space="preserve" x="2250" y="4140" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">TF:m</text>
+<!-- Line -->
+<polyline points=" 1125,4050 1800,4050"
+	stroke="#0000ff" stroke-width="15px" stroke-dasharray="60 60"/>
+<!-- Line -->
+<polyline points=" 2700,4050 5175,4050"
+	stroke="#0000ff" stroke-width="15px" stroke-dasharray="60 60"/>
 <!-- Line -->
 <polyline points=" 2475,2475 3600,2475 3375,2700"
 	stroke="#000000" stroke-width="15px"/>
@@ -61,16 +63,10 @@
 <polyline points=" 2250,1125 2250,2250 2475,2025"
 	stroke="#000000" stroke-width="15px"/>
 <!-- Line -->
-<polyline points=" 2025,900 900,900 1125,1125"
+<polyline points=" 2250,2700 2250,3825 2475,3600"
 	stroke="#000000" stroke-width="15px"/>
 <!-- Line -->
-<polyline points=" 2250,3825 2250,2700 2475,2925"
-	stroke="#000000" stroke-width="15px"/>
-<!-- Line -->
-<polyline points=" 2250,5400 2250,4275 2475,4500"
-	stroke="#000000" stroke-width="15px"/>
-<!-- Line -->
-<polyline points=" 2025,5625 900,5625 1125,5850"
+<polyline points=" 2250,4275 2250,5400 2475,5175"
 	stroke="#000000" stroke-width="15px"/>
 </g>
 </svg>
